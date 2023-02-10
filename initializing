@@ -1,0 +1,3 @@
+select ww.bat
+from ww-zg.bat when d=1
+end
